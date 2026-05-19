@@ -89,7 +89,9 @@ TBD
 
 ## 3.2. Conclusions
 
-TBD
+1. The integration of Slack with Databricks Free Edition is possible and can be documented and reproduced.
+2. The integration can be used to alert on job execution status.
+3. The integration can be used to receive notifications and alerts about the status of Databricks jobs and workloads.
 
 # Appendixes
 
